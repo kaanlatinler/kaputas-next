@@ -1,0 +1,12 @@
+{
+    "SomeCardData": [
+        {
+            "title": "İnşaat Sonrası Test ve Kontroller",
+            "content": "Her inşaat projemiz, tamamlandıktan sonra kapsamlı testlere tabi tutulur. Bu testler arasında statik dayanıklılık, yangın güvenliği, su yalıtımı ve elektriksel güvenlik kontrolleri bulunmaktadır. Yapının her aşaması, projedeki mühendislik hesaplamalarına uygun olarak denetlenir. Böylece teslim edilen yapıların güvenliği, dayanıklılığı ve verimliliği garantilenmiş olur."
+        },
+        {
+            "title": "Projelerimizde Kullandığımız Teknolojik Yenilikler",
+            "content": "Kaputaş İnşaat, sadece inşaat sürecinde değil, proje planlama ve tasarım aşamalarında da son teknolojiyi kullanmaktadır. Gelişmiş yazılımlar ve 3D modelleme teknolojileri sayesinde projelerimizi daha verimli ve hatasız bir şekilde tasarlıyoruz. Ayrıca, inşaat sahasında kullandığımız dronlar, laser scanning ve BIM (Building Information Modeling) teknolojileriyle, her aşamanın doğru bir şekilde izlenmesini sağlıyoruz."
+        }
+    ]
+}

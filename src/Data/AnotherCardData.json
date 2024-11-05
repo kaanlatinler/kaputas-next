@@ -1,0 +1,28 @@
+{
+    "AnotherCardData": [
+        {
+            "title": "Prekast Yapı",
+            "content": "beton teknolojisi, fabrikada önceden üretilen ve kalite kontrol testlerinden geçirilen yapı elemanlarının hızlı, dayanıklı ve çevre dostu inşaat projelerinde kullanılmasını sağlar. Bu yöntem, inşaat süresini kısaltırken yüksek kalite ve tasarım esnekliği sunar. Prekast evler, modern inşaat projelerinde verimlilik ve sürdürülebilirlik açısından büyük avantajlar sağlar. "
+        },
+        {
+            "title": "Betonarme Yapı",
+            "content": "Betonarme yapılar, dayanıklılık ve uzun ömürlülük açısından güçlüdür. Kaputaş İnşaat, projelerinde yüksek kalite standartlarında hazır beton kullanır ve tüm betonarme yapılar, ulusal ve uluslararası inşaat standartlarına uygun olarak dökülür."
+        },
+        {
+            "title": "Çelik Yapılar",
+            "content": "Endüstriyel projeler ve büyük ölçekli ticari yapılar için çelik taşıyıcı sistemler tercih edilir. Çelik yapılar, ağır yük taşıma kapasitesine sahip olup, geniş açıklıklar ve hızlı inşaat süreçleri sunar. Endüstriyel tesislerimizde çelik yapı sistemlerini, mühendislik hesaplamalarına dayanarak maksimum verimlilikle uyguluyoruz."
+        },
+        {
+            "title": "Yalıtım ve Isı İzolasyonu",
+            "content": "Antalya'nın sıcak iklim koşullarında enerji verimliliği büyük önem taşır. Projelerimizde, ısı yalıtımı, su yalıtımı ve ses yalıtımı gibi uygulamalar ile iç mekan konforunu sağlıyoruz. Yüksek kaliteli yalıtım malzemeleri kullanarak, binaların enerji tüketimini azaltıyor, ısı kaybını engelliyor ve çevre dostu çözümler sunuyoruz. Zemin, duvar, çatı ve pencere yalıtımlarında, her bir projeye özel en uygun malzemeler kullanılarak, uzun ömürlü ve yüksek performanslı yalıtım çözümleri sunuyoruz."
+        },
+        {
+            "title": "İleri Teknoloji ve Akıllı Ev Sistemleri",
+            "content": "Modern yaşamın gereksinimlerine uygun olarak, akıllı ev sistemleri projelerimize entegre edilmektedir. Kaputaş İnşaat olarak, IOT (Internet of Things) tabanlı akıllı ev sistemleri ile ev sahiplerinin yaşamını daha konforlu hale getiriyoruz. Işıklandırma, ısıtma-soğutma, güvenlik sistemleri, su yönetimi gibi tüm ev fonksiyonları, kullanıcı dostu bir yazılım aracılığıyla uzaktan kontrol edilebilir hale gelmektedir. Ayrıca, enerji verimliliği sağlamak adına güneş enerjisi sistemleri de projelerimizde entegre  edilebilmektedir."
+        },
+        {
+            "title": "Çevre Dostu ve Sürdürülebilir Yapılar",
+            "content": "Kaputaş İnşaat, doğaya duyarlı bir yaklaşım benimseyerek, her projede yeşil bina standartlarını hedefler. Projelerimizde enerji verimliliği sağlayacak güneş enerjisi panelleri, gri su geri dönüşüm sistemleri, sıfır atık yönetimi gibi çevre dostu teknolojiler kullanmaktayız. Yapılarımızda doğal malzemelere ve geri dönüştürülmüş malzemelere yer vererek, ekolojik dengeyi bozmadan modern ve estetik yapılar inşa ediyoruz."
+        }
+    ]
+}

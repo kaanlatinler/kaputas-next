@@ -1,0 +1,64 @@
+{
+    "CardData": [
+        {
+            "title": "Lüks Konut ve Villa Projeleri",
+            "content": "Antalya’nın en prestijli bölgelerinde, doğa ile iç içe, modern ve lüks villalar inşa ediyoruz. Yüksek yaşam standartlarını hedeflediğimiz projelerimiz, estetik mimari tasarımlar ve kaliteli malzemelerle hayat buluyor. Geniş yaşam alanları, özel havuzlar, akıllı ev sistemleri ve yeşil alanlar gibi özelliklerle tasarlanmış villalarımız, her zaman en üst düzeyde konforu sunmayı amaçlıyor. Kaputaş İnşaat, size sadece bir ev değil, hayatınızın her anını konforlu kılacak bir yaşam alanı sunuyor.",
+            "isRight": true,
+            "image": "/assets/images/foto/kaputas.png"
+        },
+        {
+            "title": "Modern Daire Projeleri",
+            "content": "Şehir merkezine yakın, ulaşımı kolay ve modern yaşamın gereksinimlerini karşılayan konforlu daireler inşa ediyoruz. Hem yatırım hem de yaşam alanı olarak yüksek kazanç potansiyeli taşıyan projelerimiz, estetik tasarımları, fonksiyonel iç mekan düzenlemeleri ve kaliteli malzeme kullanımıyla dikkat çekiyor. Kaputaş İnşaat’ın modern daire projeleri, şehir hayatını rahatça sürdürebileceğiniz prestijli bir yaşam alanı sunmaktadır.",
+            "isRight": false,
+            "image": "/assets/images/foto/kaputas2.png"
+        },
+        {
+            "title": "Endüstriyel Yapılar ve Ticari Projeler",
+            "content": "Kaputaş İnşaat, sadece konut projeleriyle değil, aynı zamanda endüstriyel yapılar ve ticari projelerle de sektördeki yerini sağlamlaştırmıştır. Fabrika binaları, depo alanları, ofisler ve alışveriş merkezleri gibi ticari yapılar inşa ediyoruz. Bu projeler, modern iş yaşamının gereksinimlerini karşılayacak şekilde tasarlanmış olup, estetik ve fonksiyonelliği bir arada sunmaktadır. Her bir projede, işlevsellik, dayanıklılık ve sürdürülebilirlik esas alınmaktadır.",
+            "isRight": true,
+            "image": "/assets/images/foto/kaputas3.png"
+        },
+        {
+            "title": "Kentsel Dönüşüm Projeleri",
+            "content": "Antalya’nın eski bölgelerindeki yapıları modernize ederek, yaşam alanlarını daha güvenli ve estetik hale getiriyoruz. Kentsel dönüşüm projelerinde, hem estetik hem de yapısal olarak yenilikçi çözümler sunarak, modern şehir dokusuna katkıda bulunuyoruz. Sadece binaların değil, çevrenin de iyileştirilmesine yönelik çalışmalar yaparak, sosyal yaşam kalitesini artırıyoruz.",
+            "isRight": false,
+            "image": "/assets/images/foto/kaputas4.png"
+        },
+        {
+            "title": "Kaputaş İnşaat Hakkında",
+            "content": "Kaputaş İnşaat, bugüne kadar Antalya'nın farklı bölgelerinde birçok başarılı projeye imza atmıştır. Hem lüks konut projeleri hem de ticari yapılar ve endüstriyel tesisler ile sektördeki sağlam yerini pekiştirmiştir. Her projede kaliteyi, güveni ve müşteri memnuniyetini ön planda tutarak, adımızı güvenilir ve profesyonel bir marka olarak duyurduk. Antalya’nın gözde yerleşim alanlarında, estetik ve fonksiyonellik açısından mükemmel projelerimiz ile yaşam alanlarını dönüştürüyoruz.",
+            "isRight": true,
+            "image": "/assets/images/foto/kaputas5.png"
+        },
+        {
+            "title": "Neden Kaputaş İnşaat?",
+            "content": "Kalite Garantisi: İnşaat sürecindeki her aşamada yüksek kalite standartlarına bağlı kalarak, uzun ömürlü ve sağlam yapılar inşa ediyoruz. Zamanında Teslimat: Kaputaş İnşaat olarak, projelerimizi planlanan sürelerde ve taahhüt ettiğimiz şartlarda teslim ediyoruz. Müşterilerimizin güvenini boşa çıkarmıyoruz. Müşteri Odaklı Çalışma: Her proje, müşteri ihtiyaçlarına göre özel olarak tasarlanır. İhtiyaçlarınıza en uygun çözümleri sunuyoruz. Çevre Dostu Yaklaşım: Doğaya saygılı inşaat yöntemleri kullanarak, sürdürülebilir ve çevre dostu projeler gerçekleştiriyoruz. Deneyimli Kadro: Alanında uzman mühendisler, mimarlar ve işçilerin bulunduğu profesyonel ekibimizle projeleri hayata geçiriyoruz.",
+            "isRight": false,
+            "image": "/assets/images/foto/kaputas6.png"
+        },
+        {
+            "title": "Teknik Üstünlük ve İnşaat Süreçleri",
+            "content": "Kaputaş İnşaat olarak, projelerimizi sadece estetik açıdan değil, aynı zamanda mühendislik ve teknik açıdan da mükemmel sonuçlar elde etmek amacıyla titizlikle hayata geçiriyoruz. Antalya'nın dinamik yapısına uygun inşaat yöntemleri, yerel iklim ve zemin koşulları gibi teknik unsurları göz önünde bulundurarak her projeyi benzersiz kılmak için çalışıyoruz. Yüksek mühendislik bilgisi ve kaliteli malzeme kullanımı ile inşa ettiğimiz her yapı, sağlamlık, güvenlik ve uzun ömürlülük sunmaktadır.",
+            "isRight": true,
+            "image": "/assets/images/foto/kaputas7.png"
+        },
+        {
+            "title": "Proje Yönetimi ve İnşaat Süreci",
+            "content": "Kaputaş İnşaat, projelerin her aşamasında profesyonel bir yaklaşım benimseyerek tüm süreci kusursuz şekilde yönetmektedir. Proje aşamaları ve kullanılan inşaat teknikleri hakkında detaylı bilgiye sahip olan firmamız, tüm inşaat süreçlerinde aşağıdaki adımları takip etmektedir.",
+            "isRight": false,
+            "image": "/assets/images/foto/kaputas8.png"
+        },
+        {
+            "title": "Proje Planlama ve Tasarım Süreci",
+            "content": "İlk olarak, her projenin benzersiz gereksinimlerini karşılamak amacıyla detaylı planlamalar yapılır. İleri düzey yazılımlar (AutoCAD, Revit vb.) kullanarak mimari ve mühendislik tasarımları oluşturulur. Yapının tasarımında müşteri talepleri ve mevcut yerel yönetmeliklere tam uyum sağlanarak, hem estetik hem de fonksiyonellik ön planda tutulur.",
+            "isRight": true,
+            "image": "/assets/images/foto/kaputas9.png"
+        },
+        {
+            "title": "Zemin Etüdü ve Altyapı Çalışmaları",
+            "content": "Her projemizin temeli, yapının uzun ömürlü olmasını sağlamak amacıyla kapsamlı zemin sonuçlarına göre hazırlanır. Antalya'nın zemin yapısı, su seviyeleri, yer altı suyu gibi faktörler dikkate alınarak temel hesaplamaları yapılır. Binaların inşasında kullanılan temellerin türü (radye temel, kazık temel vb.) yerel zemin koşullarına belirlenir. Kaputaş İnşaat, her projede güvenliği ön planda tutarak, zemin etüdü raporlarına dayalı doğru yapısını seçer.",
+            "isRight": false,
+            "image": "/assets/images/foto/kaputas10.png"
+        }
+    ]
+}
