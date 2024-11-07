@@ -1,10 +1,9 @@
-
 import React from "react";
 
 const AnotherCard = ({ data }) => {
   return (
     <div
-      className="col-xxl-4 col-xl-6 col-lg-6 text-middle wow fadeInRight"
+      className="col-xxl-4 col-xl-6 col-lg-6 mt-5 mt-sm-1  text-middle wow fadeInRight"
       data-wow-delay="0"
     >
       <div

@@ -9,7 +9,7 @@ import CardData from "@/Data/CardData";
 
 export default function Home() {
   return (
-    <div id="content" className="no-bottom no-top">
+    <div id="content" className="no-bottom no-top overflow-hidden">
       <WelcomeSection />
       <SlidingAnim />
       <div id="cardSection">

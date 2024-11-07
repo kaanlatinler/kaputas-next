@@ -1,4 +1,5 @@
 import React from "react";
+import ContactForm from "./ContactForm";
 
 const ContactSection = () => {
   return (
@@ -18,80 +19,7 @@ const ContactSection = () => {
           </div>
 
           <div className="col-md-8 offset-md-2 wow fadeInLeft">
-            <form name="contactForm" id="contact_form" method="post">
-              <div className="row">
-                <div className="col-md-4">
-                  <div id="name_error" className="error">
-                    Please enter your name.
-                  </div>
-                  <div>
-                    <input
-                      type="text"
-                      name="name"
-                      id="name"
-                      className="form-control"
-                      placeholder="Your Name"
-                    />
-                  </div>
-
-                  <div id="email_error" className="error">
-                    Please enter your valid E-mail ID.
-                  </div>
-                  <div>
-                    <input
-                      type="text"
-                      name="email"
-                      id="email"
-                      className="form-control"
-                      placeholder="Your Email"
-                    />
-                  </div>
-
-                  <div id="phone_error" className="error">
-                    Please enter your phone number.
-                  </div>
-                  <div>
-                    <input
-                      type="text"
-                      name="phone"
-                      id="phone"
-                      className="form-control"
-                      placeholder="Your Phone"
-                    />
-                  </div>
-                </div>
-                <div className="col-md-8">
-                  <div id="message_error" className="error">
-                    Please enter your message.
-                  </div>
-                  <div>
-                    <textarea
-                      name="message"
-                      id="message"
-                      className="form-control"
-                      placeholder="Your Question"
-                    ></textarea>
-                  </div>
-                </div>
-
-                <div className="col-md-12 text-center">
-                  <p id="submit">
-                    <input
-                      type="submit"
-                      id="send_message"
-                      value="Submit Question"
-                      className="btn btn-line"
-                    />
-                  </p>
-                  <div id="mail_success" className="success">
-                    Your message has been sent successfully.
-                  </div>
-                  <div id="mail_fail" className="error">
-                    Sorry, error occurred this time sending your message.
-                  </div>
-                </div>
-              </div>
-            </form>
+            <ContactForm />
           </div>
         </div>
       </div>

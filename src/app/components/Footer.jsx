@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-6">
             <Image
-              src="/assets/images/kaputas/2.png"
+              src="../assets/images/kaputas/2.png"
               className="logo-small"
               width={150}
               height={50}
@@ -50,8 +50,9 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6">
-              &copy; Copyright 2024 - Archi Interior Design Template by{" "}
-              <span className="id-color">Designesia</span>
+              &copy; Copyright {new Date().getFullYear()} - Yiğit Yüceer Proje
+              Yönetimi Markasıdır
+              <span className="id-color"> Kaputaş İnşaat</span>
             </div>
             <div className="col-md-6 text-right">
               <div className="social-icons">

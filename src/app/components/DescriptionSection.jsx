@@ -13,7 +13,7 @@ const DescriptionSection = () => {
       <div className="container">
         <div className="row text-center ">
           <h2 className="text-white">
-            Kaputaş İnşaat – Antalya'nın Lider İnşaat Şirketi
+            Kaputaş&apos;ın İnşaat – Antalya&apos;nın Lider İnşaat Şirketi
           </h2>
           <p></p>
         </div>

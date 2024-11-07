@@ -17,13 +17,15 @@ export default function RootLayout({ children }) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="Archi is best selling interior design website template with responsive stunning design"
+          content="Kaputaş İnşaat, Antalya'nın lider inşaat firması olarak, lüks konutlar ve endüstriyel yapılar inşa ediyor. Yenilikçi, sürdürülebilir ve estetik çözümlerle yüksek yaşam standartları hedefliyoruz. Müşteri memnuniyeti odaklı projelerle sektördeki liderliğimizi pekiştiriyoruz."
         />
+
         <meta
           name="keywords"
-          content="architecture,building,business,bootstrap,creative,exterior design,furniture design,gallery,garden design,house,interior design,landscape design,multipurpose,onepage,portfolio,studio"
+          content="Kaputaş İnşaat, Antalya inşaat, lüks konutlar, endüstriyel yapılar, inşaat firması Antalya, modern konutlar, ticari yapılar, restorasyon projeleri, sürdürülebilir inşaat, estetik yapılar, yüksek mühendislik standartları, çevre dostu inşaat"
         />
-        <meta name="author" content="" />
+
+        <meta name="author" content="Yiğit Yüceer" />
 
         <link
           href="/assets/css/bootstrap.min.css"

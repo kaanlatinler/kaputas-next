@@ -37,7 +37,7 @@ const Header = () => {
                   <Link href="#section-offer">Teknikler</Link>
                 </li>
                 <li>
-                  <Link href="#section-contact">Contact</Link>
+                  <Link href="#section-contact">İletişim</Link>
                 </li>
               </ul>
             </nav>
